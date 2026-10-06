@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Tarun! 👋
 
-<!--
-**Tarun-Hacker-lab/Tarun-Hacker-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🚀 I am a **1st-Year B.Tech Student** exploring the world of technology and software development.
+- 📚 Currently focused on building strong foundational skills in engineering and problem-solving.
+- 🎯 My goal is to work on open-source projects and collaborate with fellow tech enthusiasts.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests
+### 💻 Languages & Tech (Learning & Exploring)
+![Python](https://shields.io)
+![C](https://shields.io)
+![HTML5](https://shields.io)
+![Git](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Areas of Interest
+- 🌐 Web Development
+- 🛡️ Cyber Security / Ethical Hacking
+- 🤖 Artificial Intelligence
+
+---
+
+## 📈 My GitHub Stats
+![Tarun's GitHub stats](https://vercel.app)
+
+📫 **How to reach me:** Feel free to connect with me right here on GitHub by exploring my repositories!
